@@ -33,8 +33,7 @@ class Varasto:
             return 0.0
         if maara > self.saldo: 
             kaikki_mita_voidaan = self.saldo
-            #rikkoo testit, pitäisi olla 0.0
-            self.saldo = 0.1
+            self.saldo = 0.0
 
             return kaikki_mita_voidaan
 
