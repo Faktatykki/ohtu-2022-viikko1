@@ -4,5 +4,5 @@
 )
 
 [![codecov](https://codecov.io/gh/Faktatykki/ohtu-2021-viikko1/branch/main/graph/badge.svg?token=QJWAWSLNVJ)](https://codecov.io/gh/Faktatykki/ohtu-2021-viikko1)
-)
+
 
